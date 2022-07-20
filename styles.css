@@ -1,1 +1,59 @@
 /* Write your CSS here! */
+header {
+    font-size: xx-large;
+    padding-top: 70px;
+ }
+
+ #redHeader {
+    color: slategray
+ }
+
+ #mainHeading {
+  color: red
+ }
+
+ .funParagraph {
+  color: green
+ }
+
+ body {
+    background-color:azure;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+ }
+
+ p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 100px;
+    margin-left: 80px;
+    font-size: large;
+  }
+
+  h6 {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 150px;
+        font-size: larger;
+  }
+
+  h4 {
+    font-style: italic;
+    font-size: larger;
+  }
+  
+  h3 {
+    font-style: italic;
+    font-size: x-large;
+    padding-left: 70px;
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+  }
+
+  li {
+    font-size: larger;
+  }
