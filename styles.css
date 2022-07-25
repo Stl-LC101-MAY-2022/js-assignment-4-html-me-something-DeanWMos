@@ -1,7 +1,16 @@
 /* Write your CSS here! */
 header {
     font-size: xx-large;
-    padding-top: 70px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-block-width: 2px;
+    border-block-style: solid;
+    border-block-color:black;
+    border-block-radius: 50%;
+    float: right;
+   
  }
 
  #redHeader {
@@ -18,10 +27,11 @@ header {
 
  body {
     background-color:azure;
-    margin-top: 8px;
+    margin: 8px;
+   /* margin-top: 8px;
     margin-bottom: 8px;
     margin-right: 8px;
-    margin-left: 8px;
+    margin-left: 8px;  */
  }
 
  p {
